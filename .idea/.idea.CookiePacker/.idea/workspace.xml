@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aa6f63c-6aa7-4f34-b8ac-0580ce631d14" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/043e10ec4a0f4999a2729072194b9cfe958800/47/7542b904/EditorApplication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2d8783c7af0442318483a199a473c55b175e00/62/66d7c992/SetupCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/a9/38021c77/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/e4/c7a68ba7/Queue`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Features/Editor/CookieFieldEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Features/Gameplay/Colors/Color.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/PlayerInput/PlayerInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qZfz6kCTcxaEQBOEVV66hVibjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "XThreadsFramesViewSplitterKey": "0.41093475",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propDebugger",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.37f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\GameDeveloping\Unity\CookiePacker -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\GameDeveloping\Unity\CookiePacker" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.37f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\GameDeveloping\Unity\CookiePacker -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\GameDeveloping\Unity\CookiePacker" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa6f63c-6aa7-4f34-b8ac-0580ce631d14" name="Changes" comment="" />
+      <created>1734875278834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734875278834</updated>
+      <workItem from="1734875281066" duration="4768000" />
+      <workItem from="1734951876194" duration="597000" />
+      <workItem from="1734967536429" duration="1200000" />
+      <workItem from="1735027050173" duration="1117000" />
+      <workItem from="1735041924993" duration="7077000" />
+      <workItem from="1735116455333" duration="6486000" />
+      <workItem from="1735132959641" duration="1891000" />
+      <workItem from="1735205459513" duration="19513000" />
+      <workItem from="1735288597997" duration="5031000" />
+      <workItem from="1735379486004" duration="5925000" />
+      <workItem from="1735550937344" duration="1497000" />
+      <workItem from="1735917650270" duration="1657000" />
+      <workItem from="1735989546496" duration="8228000" />
+      <workItem from="1736063364085" duration="13095000" />
+      <workItem from="1736156645122" duration="4741000" />
+      <workItem from="1736173995645" duration="1161000" />
+      <workItem from="1736240124137" duration="2692000" />
+      <workItem from="1736242857893" duration="2487000" />
+      <workItem from="1736255317618" duration="3288000" />
+      <workItem from="1736327053520" duration="4834000" />
+      <workItem from="1736338242383" duration="2641000" />
+      <workItem from="1736341044430" duration="848000" />
+      <workItem from="1736411343970" duration="4391000" />
+      <workItem from="1736427168004" duration="4474000" />
+      <workItem from="1736502245293" duration="331000" />
+      <workItem from="1736502589543" duration="4590000" />
+      <workItem from="1736582126360" duration="12797000" />
+      <workItem from="1736771351545" duration="4468000" />
+      <workItem from="1736862913046" duration="3253000" />
+      <workItem from="1736866607778" duration="4940000" />
+      <workItem from="1736942519851" duration="10236000" />
+      <workItem from="1737105206009" duration="5403000" />
+      <workItem from="1737274310915" duration="2753000" />
+      <workItem from="1737361197059" duration="9001000" />
+      <workItem from="1737452527105" duration="12393000" />
+      <workItem from="1737531484081" duration="6712000" />
+      <workItem from="1737624755987" duration="11905000" />
+      <workItem from="1737711800425" duration="13008000" />
+      <workItem from="1737973479641" duration="8226000" />
+      <workItem from="1738056455343" duration="14437000" />
+      <workItem from="1738145863855" duration="1273000" />
+      <workItem from="1738238911454" duration="5012000" />
+      <workItem from="1738251208376" duration="2629000" />
+      <workItem from="1738258875328" duration="1247000" />
+      <workItem from="1738324988504" duration="7579000" />
+      <workItem from="1738416460543" duration="3725000" />
+      <workItem from="1738569310617" duration="20845000" />
+      <workItem from="1738691683044" duration="344000" />
+      <workItem from="1739911945150" duration="52000" />
+      <workItem from="1755328878453" duration="3502000" />
+      <workItem from="1755472401002" duration="2515000" />
+      <workItem from="1755629055051" duration="6142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

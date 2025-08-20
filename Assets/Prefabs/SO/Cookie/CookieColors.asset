@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4c49c3d79d41bf826b8be371c28caa, type: 3}
+  m_Name: CookieColors
+  m_EditorClassIdentifier: 
+  _colors:
+  - color: 0
+    material: {fileID: 2100000, guid: de92c217e33e9f548a09cd707ba2b737, type: 2}
+  - color: 1
+    material: {fileID: 2100000, guid: 155b84fbfb9319c4d9968f1c62131ea1, type: 2}
+  - color: 2
+    material: {fileID: 2100000, guid: aaf7c03ded83b184d83ff9d446d0d047, type: 2}
+  - color: 3
+    material: {fileID: 2100000, guid: fd0a385c67644e34ea759feec950ae76, type: 2}
+  - color: 4
+    material: {fileID: 2100000, guid: 68595fbda04d56e4b9f312774898c67b, type: 2}
+  - color: 5
+    material: {fileID: 2100000, guid: 0fa6d1eff03a39840a0577ed6d543654, type: 2}
+  - color: 6
+    material: {fileID: 2100000, guid: 113f25f2f1348e748ae1843006c78ee0, type: 2}
+  - color: 7
+    material: {fileID: 2100000, guid: 3d59c4a62f6030842a02785efb2495aa, type: 2}
+  - color: 8
+    material: {fileID: 2100000, guid: 938ceae7e33fa084e91630e5d1ee0e9a, type: 2}

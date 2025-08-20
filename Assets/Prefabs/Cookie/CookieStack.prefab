@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9090846018361419119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3274843917317905849}
+  - component: {fileID: 1542824575174289049}
+  - component: {fileID: 6621273270233713381}
+  m_Layer: 0
+  m_Name: CookieStack
+  m_TagString: Untagged
+  m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3274843917317905849
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9090846018361419119}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1542824575174289049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9090846018361419119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f24c5f597c44f84848076ac3f738e7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _cookieColor: {fileID: 11400000, guid: 9044cffa07632034f9ec1342cde23bfb, type: 2}
+  _heightAmongCookie: 0.3
+  _stack: []
+  _color: 0
+  _cookiePrefab: {fileID: 2071669193191257028, guid: 6e79c7bf95cfb6a458e6c9dcce68e06b,
+    type: 3}
+  _secretStack: {fileID: 6621273270233713381}
+  _isSecret: 0
+--- !u!114 &6621273270233713381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9090846018361419119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912df9bcd5b6461fa2199627c7685d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _secretMaterial: {fileID: 2100000, guid: 5aac7b446b8ddb64cbbe578ed25dcd61, type: 2}
